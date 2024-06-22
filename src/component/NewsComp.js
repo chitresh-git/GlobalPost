@@ -39,7 +39,7 @@ export class NewsComp extends Component {
 
     this.setState({Loading:true}) // setting the loading state true so that it will show the spinner
 
-    document.title=`The Indore Times - ${this.props.country}/${this.props.category}` // changing the title dynamically
+    document.title=`Global Post - ${this.props.country}/${this.props.category}` // changing the title dynamically
 
     const url = `${process.env.REACT_APP_BACKEND_URL}/${this.props.country}/${this.props.category}`;
 
