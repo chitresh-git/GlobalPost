@@ -1,0 +1,6 @@
+.newspic {
+    width: 300px; /* Set your desired width */
+    height: 200px; /* Set your desired height */
+    object-fit: cover; /* This ensures the image covers the area while maintaining its aspect ratio */
+  }
+  
