@@ -14,11 +14,8 @@ import {
 
 
 export class App extends Component {
-  Newsapi=process.env.REACT_APP_newsapi // this will import the environment varible form .env.local file 
-  // Newsapi="3c7894337e28487baa02802a2f1d2ef0" // this will import the environment varible form .env.local file 
 
   state={
-    //  Newsapi:"3c7894337e28487baa02802a2f1d2ef0",
     progress:0 // declaring the state for progress bar 
   }
   
