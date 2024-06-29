@@ -86,7 +86,7 @@ export class Navbar extends Component {
                   <li><a className="dropdown-item" href="https://one-note-zeta.vercel.app/" target='_blank'>OneNote</a></li>
                   <li><a class="dropdown-item" href='https://ad-shield.vercel.app/' target='_blank' >Ad_Shield</a></li>
                   <li><a class="dropdown-item" href='https://show-gen.vercel.app/' target='_blank' >ShowGen</a></li>
-                  <li><a className="dropdown-item" href="https://notion-one-jade.vercel.app/contact" target='_blank'>Contact</a></li>
+                  <li><a className="dropdown-item" href="https://notion-one-jade.vercel.app/contact" target='_blank'>Contact us</a></li>
 
 
                 </ul>
